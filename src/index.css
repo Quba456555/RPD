@@ -1,0 +1,22 @@
+
+
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  position: relative;
+  height: 100vh;
+}
+
+.rectangles-container {
+  position: relative;
+}
+
+.green-rectangle {
+  position: absolute;
+  background-color: green;
+}
